@@ -1,4 +1,4 @@
-// v6 - kaip pridėti žvaiždes, remtis https://ofrohn.github.io/data/stars.6.json ir sukurti stars.json nepamiršti suformatuoti
+// v6 - kaip pridėti žvaiždes, remtis https://ofrohn.github.io/data/stars.6.json ir sukurti stars.json nepamiršti suformatuoti su json formater
 var config = {
   datapath: "https://ofrohn.github.io/data/",
   projection: "orthographic",
