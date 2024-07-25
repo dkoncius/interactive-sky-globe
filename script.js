@@ -167,7 +167,7 @@ Celestial.display(config);
 // Set the date for the celestial map
 Celestial.date(dt);
 
-// v8 - įjungiam viską
+// v8 - įjungiam viską ir jeigu bus laiko paviešinam per Github pages
 var config = {
   datapath: "https://ofrohn.github.io/data/",
   projection: "orthographic",
